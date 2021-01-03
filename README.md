@@ -7,7 +7,7 @@ I made this game by following the training video. Assets are free for education 
 
 ✔️ Assets Link: https://assetstore.unity.com/packages/templates/systems/beat-em-up-game-template-3d-98013
 
-📣 Some Pictures of Game in the Below 💯👇
+📣 Some Pictures of Game in the Below 👇
 
 ![1](https://user-images.githubusercontent.com/37108233/103480378-12037c80-4de5-11eb-821d-e6f2ad62ccc1.PNG)
 
