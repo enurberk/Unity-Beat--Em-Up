@@ -1,4 +1,4 @@
-# Unity-Beat--Em-Up
+# Unity-Beat-Em-Up
 ⚔️ Fight Game made in with Unity ⚔️
 
 I made this game by following the training video. Assets are free for education but paid for commercial purposes. All rights belong to Osarion.
